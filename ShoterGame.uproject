@@ -2,5 +2,11 @@
 	"FileVersion": 3,
 	"EngineAssociation": "{3C6C3FA0-4DDD-52B3-0304-E69EEB6BBA83}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "OnlineSubsystem",
+			"Enabled": true
+		}
+	]
 }
